@@ -18,4 +18,4 @@ Este projeto utiliza as seguintes tecnologias:
 
 <b>CSS:</b> O estilo e o layout da página são definidos em CSS para tornar a interface atraente e responsiva.
 
-<b>avaScript:</b> A lógica de conversão é implementada em JavaScript para garantir que as unidades sejam convertidas de forma precisa e eficiente.
+<b>JavaScript:</b> A lógica de conversão é implementada em JavaScript para garantir que as unidades sejam convertidas de forma precisa e eficiente.
